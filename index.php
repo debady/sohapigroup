@@ -5,7 +5,6 @@
 
     <body>
         <?php include("includes/preload.php");?>
-        <?php include("includes/pre_entete.php");?>
         <?php include("includes/navbar.php");?>
         <?php include("includes/slade.php");?>
         <?php include("includes/specialites.php");?>
