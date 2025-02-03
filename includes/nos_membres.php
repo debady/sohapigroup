@@ -15,8 +15,8 @@
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
-                        <h5 class="mb-0">Houle Trésor Noël</h5>
-                        <small>Responsable et Chef de Projet</small>
+                        <h5 class="mb-0">Alla Aime Martial</h5>
+                        <small>Président Directeur Général de SOHAPI-GROUP</small>
                     </div>
                 </div>
             </div>
@@ -31,8 +31,8 @@
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
-                        <h5 class="mb-0">Alla Aime Martial</h5>
-                        <small>Président Directeur Général de SOHAPI-GROUP</small>
+                        <h5 class="mb-0">Houle Trésor Noël</h5>
+                        <small>Responsable et Chef de Projet</small>
                     </div>
                 </div>
             </div>
