@@ -12,7 +12,7 @@
                     <li class="mx-2" data-filter=".Third">Événements et Conférences en Santé</li>
                     <li class="mx-2" data-filter=".Fourth">Plateforme de Formation pour les Professionnels de Santé</li>
                     <li class="mx-2" data-filter=".Fifth">Consultations Médicales à Distance (Télémédecine)é</li>
-                    <li class="mx-2" data-filter=".Sixth">Collaboration avec des Établissements de Santé pour Améliorer leur Communicationé</li>
+                    <li class="mx-2" data-filter=".Sixth">Collaboration avec des Établissements de Santé pour Améliorer leur Communication</li>
                 </ul>
             </div>
         </div>
@@ -20,9 +20,9 @@
             <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.1s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-1.jpg" alt="">
+                        <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-1.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -37,9 +37,9 @@
             <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.3s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-2.jpg" alt="">
+                        <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-2.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -55,9 +55,9 @@
             <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.5s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-3.jpg" alt="">
+                        <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-3.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -66,16 +66,16 @@
                         <h5 class="lh-base mb-0">Organiser des événements, séminaires et conférences, 
                         en ligne ou en présentiel, pour rassembler des expertsdu domaine médical et de la santé
                         publique afin de partager des connaissances, promouvoir des innovations et discuter des défis
-                         actuels dans le secteur de la santé.</h5>
+                        actuels dans le secteur santé et plus .</h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.1s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-4.jpg" alt="">
+                        <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-4.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -90,9 +90,9 @@
             <div class="col-lg-4 col-md-6 portfolio-item first wow fadeInUp" data-wow-delay="0.3s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-5.jpg" alt="">
+                        <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-5.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>
@@ -100,16 +100,16 @@
                         <p class="text-primary fw-medium mb-2">Consultations Médicales à Distance (Télémédecine)</p>
                         <h5 class="lh-base mb-0">Mettre en place des services de télémédecine pour permettre aux patients 
                         d’accéder à des consultations médicales à distance, offrant ainsi plus d'accessibilité aux soins, 
-                        notamment dans les zones rurales ou pour les personnes ayant des contraintes de mobilité.</h5>
+                        notamment dans les zones rurales ou pour les personnes ayant des contraintes .</h5>
                     </div>
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 portfolio-item second wow fadeInUp" data-wow-delay="0.5s">
                 <div class="rounded overflow-hidden">
                     <div class="position-relative overflow-hidden">
-                        <img class="img-fluid w-100" src="img/portfolio-6.jpg" alt="">
+                        <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
-                            <a class="btn btn-square btn-outline-light mx-1" href="img/portfolio-6.jpg" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
                             <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
                         </div>
                     </div>

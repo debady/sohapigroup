@@ -7,13 +7,12 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="img/service-1.jpg" alt="">
+                        <img class="img-fluid" src="https://th.bing.com/th/id/R.1a7e18c7e3c8b6e772ed7ca7d6731312?rik=p%2bORqEIRB1EuRw&pid=ImgRaw&r=0" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Hostolink</h4>
                         <p>Hostolink est une application de paiement spécialisée dans le domaine de la santé, permettant
-                        aux patients de régler leurs soins et achats pharmaceutiques en toute simplicité.Elle offre également 
-                        des fonctionnalités de transfert d’argent, de réseautage et de coffre-fort numérique.</p>
+                        aux patients de régler leurs soins et achats pharmaceutiques en toute simplicité.</p>
                         <a class="fw-medium" href="">Lire la suite<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
@@ -21,7 +20,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="img/service-2.jpg" alt="">
+                        <img class="img-fluid" src="https://th.bing.com/th/id/OIP.EWS4G5t8X0vj8E1MtiFlRwHaHa?rs=1&pid=ImgDetMain" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Magasine santé</h4>
@@ -34,7 +33,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="img/service-3.jpg" alt="">
+                        <img class="img-fluid" src="https://th.bing.com/th/id/R.1a7e18c7e3c8b6e772ed7ca7d6731312?rik=p%2bORqEIRB1EuRw&pid=ImgRaw&r=0" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">HostoNew</h4>
@@ -47,7 +46,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="img/service-4.jpg" alt="">
+                        <img class="img-fluid" src="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Formations sanitaires</h4>
@@ -60,7 +59,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="img/service-5.jpg" alt="">
+                        <img class="img-fluid" src="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Fondation</h4>
