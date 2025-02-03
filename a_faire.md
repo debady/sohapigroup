@@ -24,6 +24,6 @@ membres
 
 
 nos sercices
-pourqioi nous chosir 
+pourquoi nous chosir 
 nos projet
 temoignage

@@ -4,9 +4,10 @@
             <div class="col-lg-6 feature-text py-5 wow fadeIn" data-wow-delay="0.5s">
                 <div class="p-lg-5 ps-lg-0">
                     <div class="section-title text-start">
-                        <h1 class="display-5 mb-4">Pourquoi Choisir Nous</h1>
+                        <h1 class="display-5 mb-4">Notre mission pour vous</h1>
                     </div>
-                    <p class="mb-4 pb-2">Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet lorem sit clita duo justo erat amet.</p>
+                    <p class="mb-4 pb-2">Notre mission pour vous chez SohapiGroup est de vous fournir des solutions de santé innovantes et accessibles, adaptées à vos besoins spécifiques. Nous mettons un point d’honneur à garantir des soins de qualité, en offrant des services de santé personnalisés et en facilitant l’accès aux soins essentiels.
+                    Grâce à nos partenariats avec des professionnels de santé qualifiés, nous nous engageons à améliorer le bien-être de chaque individu. Notre objectif est de vous accompagner à chaque étape de votre parcours de santé, avec confiance et expertise. Choisir SohapiGroup, c’est choisir une prise en charge de qualité et une vision centrée sur votre santé.</p>
                     <div class="row g-4">
                         <div class="col-6">
                             <div class="d-flex align-items-center">
@@ -26,7 +27,7 @@
                                 </div>
                                 <div class="ms-4">
                                     <p class="mb-2">Créatif</p>
-                                    <h5 class="mb-0">Designers</h5>
+                                    <h5 class="mb-0">Magasine</h5>
                                 </div>
                             </div>
                         </div>
@@ -36,8 +37,8 @@
                                     <i class="fa fa-drafting-compass fa-2x text-primary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Consultation</p>
-                                    <h5 class="mb-0">Gratuite</h5>
+                                    <p class="mb-2">Formation en santé<p>
+                                    <h5 class="mb-0">qualité</h5>
                                 </div>
                             </div>
                         </div>
