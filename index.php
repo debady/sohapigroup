@@ -10,7 +10,7 @@
         <?php include("includes/specialites.php");?>
         <?php include("includes/apropos.php");?>
         <?php include("includes/nos_services.php");?>
-        <?php include("includes/pourquoi_nous_choisir.php");?>
+        <?php include("includes/missions.php");?>
         <?php include("includes/nos_projets.php");?>
         <?php include("includes/contact.php");?>
         <?php include("includes/nos_membres.php");?>

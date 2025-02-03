@@ -6,17 +6,6 @@
 - sur chaque page après l'enête le nom de la page et le chemin de navigation 
 
 
-entete
-preload
-pre entete
-normaliser l'appel des ficheirs dans les autres fichier 
-
-
-enete
-nabar
-footer
-contact
-
 slade 
 specialités 
 apropos
