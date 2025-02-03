@@ -9,6 +9,7 @@
 entete
 preload
 pre entete
+normaliser l'appel des ficheirs dans les autres fichier 
 
 
 enete
