@@ -9,9 +9,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/team-1.jpg" alt="Houle Trésor Noël">
                         <div class="team-social">
-                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
@@ -25,9 +25,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/team-2.jpg" alt="Alla Aime Martial">
                         <div class="team-social">
-                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
@@ -41,9 +41,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/team-3.jpg" alt="Zogbe Melissa">
                         <div class="team-social">
-                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
@@ -57,9 +57,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/team-4.jpg" alt="Équipe Digital">
                         <div class="team-social">
-                            <a class="btn btn-square" href=""><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href=""><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
