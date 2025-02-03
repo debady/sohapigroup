@@ -9,3 +9,20 @@
 entete
 preload
 pre entete
+
+
+enete
+nabar
+footer
+contact
+
+slade 
+specialités 
+apropos
+membres
+
+
+nos sercices
+pourqioi nous chosir 
+nos projet
+temoignage
