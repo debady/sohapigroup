@@ -29,29 +29,29 @@
                             <h1 class="display-5 mb-4">Nous Contacter</h1>
                         </div>
                         <p class="mb-4">Merci de votre intérêt pour nos services hospitaliers. Veuillez remplir le formulaire ci-dessous pour toute demande d'information, de rendez-vous ou pour nous faire part de vos questions et commentaires. Notre équipe dévouée vous répondra dans les plus brefs délais.</a>.</p>
-                        <form>
+                        <form method="post" action="traitement/traitement_contact.php">
                             <div class="row g-3">
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" id="name" placeholder="Votre Nom">
+                                        <input type="text" class="form-control" id="name" placeholder="Votre Nom" name="nom">
                                         <label for="name">Votre Nom</label>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="form-floating">
-                                        <input type="email" class="form-control" id="email" placeholder="Votre Email">
+                                        <input type="email" class="form-control" id="email" placeholder="Votre Email"  name="email">
                                         <label for="email">Votre Email</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <input type="text" class="form-control" id="subject" placeholder="Sujet">
+                                        <input type="text" class="form-control" id="subject" placeholder="Sujet"  name="object">
                                         <label for="subject">Sujet</label>
                                     </div>
                                 </div>
                                 <div class="col-12">
                                     <div class="form-floating">
-                                        <textarea class="form-control" placeholder="Laissez un message ici" id="message" style="height: 100px"></textarea>
+                                        <textarea class="form-control"  placeholder="Laissez un message ici" id="message" style="height: 100px"  name="message"></textarea>
                                         <label for="message">Message</label>
                                     </div>
                                 </div>

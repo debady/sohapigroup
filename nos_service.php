@@ -4,8 +4,10 @@
 ?>
 
 <body>
-<?php include("includes/preload.php");?>
-<?php include("includes/navbar.php");?>
+    <?php 
+        include("includes/preload.php");
+        include("includes/navbar.php");
+    ?>
 
     <div class="container-fluid page-header py-5 mb-5">
         <div class="container py-5">
@@ -21,14 +23,11 @@
     </div>
 
 
-<?php include("includes/nos_services.php");?>
-<?php include("includes/Nous_contacter.php");?>
-
-<?php include("includes/temoignage.php");?>
-
-        
-
-    <?php include("includes/footer.php");?>
+    <?php 
+        include("includes/nos_services.php");
+        include("includes/Nous_contacter.php");
+        include("includes/temoignage.php");
+        include("includes/footer.php");
+    ?>
 </body>
-
 </html>

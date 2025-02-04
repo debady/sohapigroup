@@ -21,9 +21,6 @@
         </div>
     </div>
 
-
-        
-
     <?php include("includes/missions.php");?>
     <?php include("includes/footer.php");?>
 </body>

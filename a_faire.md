@@ -25,3 +25,9 @@ temoignage
 
 1280
 853
+
+            - installer composer
+            - créer le fichier composer.json
+            - mettre son contenue
+            - installer les dependance 
+            > composer install

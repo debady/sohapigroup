@@ -31,8 +31,11 @@
                     <h4 class="text-light mb-4">Newsletter</h4>
                     <p>Recevez les dernières nouvelles et mises à jour exclusives de notre hôpital directement dans votre boîte mail.</p>
                     <div class="position-relative mx-auto" style="max-width: 400px;">
-                        <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Votre email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">S'inscrire</button>
+                        <form action="traitement/traitement_contact.php" method="post">
+                            <input class="form-control border-0 w-100 py-3 ps-4 pe-5" type="text" placeholder="Votre email" name="email">
+                            <input type="hidden" name="newletter" value="newletter">
+                            <button type="submit" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2" ty>S'inscrire</button>
+                        </form>
                     </div>
                 </div>
             </div>
@@ -62,6 +65,38 @@
 <script src="lib/owlcarousel/owl.carousel.min.js"></script>
 <script src="lib/isotope/isotope.pkgd.min.js"></script>
 <script src="lib/lightbox/js/lightbox.min.js"></script>
-
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const status = urlParams.get('status');
+    if (status === 'success') {
+        Swal.fire({
+        title: 'Message Envoyer!',
+        text: 'Merci de nous avoir contacter. Nous nous en chargeons !',
+        icon: 'success',
+        confirmButtonText: 'OK'
+        });
+    }else if(status === 'error'){
+        Swal.fire({
+        title: 'Oups !',
+        text: 'Une erreur inattendu s\'est produit .',
+        icon: 'error',
+        confirmButtonText: 'Réessayer'
+        });
+    }else if(status === 'error_champs'){
+        Swal.fire({
+        title: 'Oups !',
+        text: 'Veuillez remplir tous les champs .',
+        icon: 'error',
+        confirmButtonText: 'Réessayer'
+        });
+    }else if(status === 'success_newletter'){
+        Swal.fire({
+        title: 'success',
+        text: 'Vous êtes abonnées à notre Newletter .',
+        icon: 'success',
+        confirmButtonText: 'D\'accord'
+        });
+    }
+</script>
 <!-- Javascript du Template -->
 <script src="js/main.js"></script>

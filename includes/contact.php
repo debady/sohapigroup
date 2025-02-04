@@ -12,20 +12,20 @@
                         <h1 class="display-5 mb-4">Nous contacter</h1>
                     </div>
                     <p class="mb-4 pb-2">Merci de votre intérêt pour nos services hospitaliers. Veuillez remplir le formulaire ci-dessous pour toute demande d'information, de rendez-vous ou pour nous faire part de vos questions et commentaires. Notre équipe dévouée vous répondra dans les plus brefs délais.</p>
-                    <form>
+                    <form method ="post" action ="traitement/traitement_contact.php">
                         <div class="row g-3">
                             <div class="col-12 col-sm-6">
-                                <input type="text" class="form-control border-0" placeholder="Votre Nom" style="height: 55px;">
+                                <input type="text" class="form-control border-0" placeholder="Votre Nom" style="height: 55px;" name="nom">
                             </div>
                             <div class="col-12 col-sm-6">
-                                <input type="email" class="form-control border-0" placeholder="Votre Email" style="height: 55px;">
+                                <input type="email" class="form-control border-0" placeholder="Votre Email" style="height: 55px;" name="email">
                             </div>
                             <div class="col-12 col-sm-6">
-                                <input type="text" class="form-control border-0" placeholder="Object" style="height: 55px;">
+                                <input type="text" class="form-control border-0" placeholder="Object" style="height: 55px;" name="object">
                             </div>
 
                             <div class="col-12">
-                                <textarea class="form-control border-0" placeholder="Votre message"></textarea>
+                                <textarea class="form-control border-0" placeholder="Votre message" name='message'></textarea>
                             </div>
                             <div class="col-12">
                                 <button class="btn btn-primary w-100 py-3" type="submit">Soumettre</button>
