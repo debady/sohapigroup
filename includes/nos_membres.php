@@ -7,7 +7,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-1.jpg" alt="Houle Trésor Noël">
+                        <img class="img-fluid" src="img/le-dr.jpg" alt="Alla Aime Martial ">
                         <div class="team-social">
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
@@ -23,7 +23,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-2.jpg" alt="Alla Aime Martial">
+                        <img class="img-fluid" src="img/mr-houle.jpg" alt="Houle Trésor Noël">
                         <div class="team-social">
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
@@ -39,7 +39,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-3.jpg" alt="Zogbe Melissa">
+                        <img class="img-fluid" src="img/melisa.png" alt="Zogbe Melissa">
                         <div class="team-social">
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
@@ -55,7 +55,7 @@
             <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.7s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
-                        <img class="img-fluid" src="img/team-4.jpg" alt="Équipe Digital">
+                        <img class="img-fluid" src="img/developpeurs.jpg" alt="Équipe Digital">
                         <div class="team-social">
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>

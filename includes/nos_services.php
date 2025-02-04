@@ -7,7 +7,20 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="https://th.bing.com/th/id/R.1a7e18c7e3c8b6e772ed7ca7d6731312?rik=p%2bORqEIRB1EuRw&pid=ImgRaw&r=0" alt="">
+                        <img class="img-fluid" src="https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_640.jpg" alt="">
+                    </div>
+                    <div class="p-4 text-center border border-5 border-light border-top-0">
+                        <h4 class="mb-3">Hostolink</h4>
+                        <p>Hostolink est une application de paiement spécialisée dans le domaine de la santé, permettant
+                        aux patients de régler leurs soins et achats pharmaceutiques en toute simplicité.</p>
+                        <a class="fw-medium" href="">Lire la suite<i class="fa fa-arrow-right ms-2"></i></a>
+                    </div>
+                </div>
+            </div>
+            <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
+                <div class="service-item">
+                    <div class="overflow-hidden">
+                        <img class="img-fluid" src="https://cdn.pixabay.com/photo/2019/05/27/07/26/mental-health-4232031_640.jpg" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Hostolink</h4>
@@ -20,7 +33,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="https://th.bing.com/th/id/OIP.EWS4G5t8X0vj8E1MtiFlRwHaHa?rs=1&pid=ImgDetMain" alt="">
+                        <img class="img-fluid" src="https://cdn.pixabay.com/photo/2016/02/29/15/02/doctor-1228629_640.jpg" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Magasine santé</h4>

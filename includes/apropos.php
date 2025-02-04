@@ -9,7 +9,7 @@
             <div class="col-lg-6 about-text py-5 wow fadeIn" data-wow-delay="0.5s">
                 <div class="p-lg-5 pe-lg-0">
                     <div class="section-title text-start">
-                        <h1 class="display-5 mb-4">À Propos de Nous</h1>
+                        <h1 class="display-5 mb-4">Mot du Directeur</h1>
                     </div>
                     <p class="mb-4 pb-2">Chez SOHAPI-GROUP, notre mission est de vous fournir des outils et des ressources pour naviguer efficacement dans le système de santé. Nous croyons que chaque patient mérite de faire des choix éclairés pour sa santé et son bien-être.</p>
                     <p class="mb-4 pb-2">Nous offrons des évaluations détaillées d'hôpitaux, des conseils sur la gestion finacière dans le domaine de la santé, et des articles récents sur les innovations médicales. Notre objectif est de vous aider à accéder à des soins de qualité tout en comprenant les enjeux financiers liés à votre santé.</p>
