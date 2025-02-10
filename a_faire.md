@@ -1,4 +1,5 @@
 
+LANCER POSTGRES  DIRECTEMENT : "C:\Program Files\PostgreSQL\14\bin\psql.exe" -U postgres -d postgres
 
 
 - enlever le pre entête 
