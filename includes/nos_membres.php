@@ -10,8 +10,8 @@
                         <img class="img-fluid" src="img/le-dr.jpg" alt="Alla Aime Martial ">
                         <div class="team-social">
                             <a class="btn btn-square" href="https://www.facebook.com/share/17nFbccKnn/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
@@ -25,9 +25,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/mr-houle.jpg" alt="Houle Trésor Noël">
                         <div class="team-social">
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
@@ -41,9 +41,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/melisa.png" alt="Zogbe Melissa">
                         <div class="team-social">
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">
@@ -57,9 +57,9 @@
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/developpeurs.jpg" alt="Équipe Digital">
                         <div class="team-social">
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-twitter"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/profile.php?id=100062976204005"><i class="fab fa-instagram"></i></a>
                         </div>
                     </div>
                     <div class="text-center border border-5 border-light border-top-0 p-4">

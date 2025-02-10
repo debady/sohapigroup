@@ -1,6 +1,14 @@
 
 <div class="container">
-    <img src="img/sohapi.jpg" class="img-fluid" alt=""><br>
+    <img src="<?php 
+
+    if(isset($_GET['nom_image'])){
+        $nom_image = $_GET['nom_image'] ;
+        echo $nom_image ;
+    }
+    
+    ?>" class="img-fluid" alt=""><br>
+    <!-- <img src="img/sohapi.jpg" class="img-fluid" alt=""><br> -->
     <div class="text"><br>
         <h3>Titre du projet</h3><br>
         <p>

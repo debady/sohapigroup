@@ -32,3 +32,8 @@ temoignage
             - mettre son contenue
             - installer les dependance 
             > composer install
+
+image de slade 3 differentes
+à la place de services mets des projets avec des images de même tailles sans filigramme (pixabay.com ou pexel)
+
+changer chaque image de projet 
