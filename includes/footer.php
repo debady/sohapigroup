@@ -3,7 +3,7 @@
             <div class="row g-5">
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-light mb-4">Adresse</h4>
-                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>00 BP COCODY Las PALMAS, Côte d'ivoire, Abidjan</p>
+                    <p class="mb-2"><i class="fa fa-map-marker-alt me-3"></i>00 BP COCODY II Plateaux Aghien, Abidjan, Côte d'ivoire</p>
                     <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+225 0102 034 065</p>
                     <p class="mb-2"><i class="fa fa-envelope me-3"></i>sohapigroup-comminication@bisiness.com</p>
                     <div class="d-flex pt-2">

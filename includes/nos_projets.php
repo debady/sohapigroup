@@ -23,7 +23,7 @@
                         <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="page_detail_projet.php"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
@@ -40,7 +40,7 @@
                         <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.b5dff0bce248c0c227a742e7454ca364?rik=%2fKDAb4Lw8bALKQ&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="page_detail_projet.php"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
@@ -58,7 +58,7 @@
                         <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="page_detail_projet.php"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
@@ -76,7 +76,7 @@
                         <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="page_detail_projet.php"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
@@ -93,7 +93,7 @@
                         <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="page_detail_projet.php"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">
@@ -110,7 +110,7 @@
                         <img class="img-fluid w-100" src="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" alt="">
                         <div class="portfolio-overlay">
                             <a class="btn btn-square btn-outline-light mx-1" href="https://th.bing.com/th/id/R.737af0737cdbc9caa6da77e582be220e?rik=uFmGvMwRMfj8uw&pid=ImgRaw&r=0" data-lightbox="portfolio"><i class="fa fa-eye"></i></a>
-                            <a class="btn btn-square btn-outline-light mx-1" href=""><i class="fa fa-link"></i></a>
+                            <a class="btn btn-square btn-outline-light mx-1" href="page_detail_projet.php"><i class="fa fa-link"></i></a>
                         </div>
                     </div>
                     <div class="border border-5 border-light border-top-0 p-4">

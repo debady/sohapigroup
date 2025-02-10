@@ -12,22 +12,24 @@
                         <div class="col-6">
                             <div class="d-flex align-items-center">
                                 <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                    <i class="fa fa-check fa-2x text-primary"></i>
+                                    <!-- <i class="fa fa-check fa-2x text-primary"></i> -->
+                                    <i class="fa fa-calendar fa-2x text-primary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Qualité</p>
-                                    <h5 class="mb-0">Services</h5>
+                                    <p class="mb-2">Événementiel</p>
+                                    <h5 class="mb-0">Hosto Awards | Hosto Forum</h5>
                                 </div>
                             </div>
                         </div>
                         <div class="col-6">
                             <div class="d-flex align-items-center">
                                 <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
-                                    <i class="fa fa-user-check fa-2x text-primary"></i>
+                                    <!-- <i class="fa fa-user-check fa-2x text-primary"></i> -->
+                                    <i class="fa fa-book fa-2x text-primary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Créatif</p>
-                                    <h5 class="mb-0">Magasine</h5>
+                                    <p class="mb-2">Formation santé</p>
+                                    <h5 class="mb-0">Hosto Académia</h5>
                                 </div>
                             </div>
                         </div>
@@ -37,8 +39,8 @@
                                     <i class="fa fa-drafting-compass fa-2x text-primary"></i>
                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Formation en santé<p>
-                                    <h5 class="mb-0">qualité</h5>
+                                    <p class="mb-2">Education finacière orienté santé<p>
+                                    <h5 class="mb-0">Hostolink</h5>
                                 </div>
                             </div>
                         </div>
@@ -46,10 +48,11 @@
                             <div class="d-flex align-items-center">
                                 <div class="d-flex flex-shrink-0 align-items-center justify-content-center bg-white" style="width: 60px; height: 60px;">
                                     <i class="fa fa-headphones fa-2x text-primary"></i>
-                                </div>
+                                    <!-- <i class="fa fa-newspaper-o fa-2x text-primary"></i>                                    -->
+                                 </div>
                                 <div class="ms-4">
-                                    <p class="mb-2">Service</p>
-                                    <h5 class="mb-0">Client</h5>
+                                    <p class="mb-2">Magazine santé</p>
+                                    <h5 class="mb-0">Hostomag</h5>
                                 </div>
                             </div>
                         </div>
@@ -58,7 +61,8 @@
             </div>
             <div class="col-lg-6 pe-lg-0" style="min-height: 400px;">
                 <div class="position-relative h-100">
-                    <img class="position-absolute img-fluid w-100 h-100" src="img/projet.jpg" style="object-fit: cover;" alt="">
+                    <img class="position-absolute img-fluid w-100 h-100" src="https://img.freepik.com/photos-gratuite/docteur-revue-tablette_1134-206.jpg?t=st=1739188395~exp=1739191995~hmac=946ccee49e827023aecfebe984999e23a0f7d969c45c5164c75679abc469f5a3&w=1380" style="object-fit: cover;" alt="">
+                    <!-- <img class="position-absolute img-fluid w-100 h-100" src="img/projet.jpg" style="object-fit: cover;" alt=""> -->
                 </div>
             </div>
         </div>

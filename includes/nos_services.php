@@ -7,23 +7,23 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="https://cdn.pixabay.com/photo/2016/04/13/22/12/hands-1327811_640.jpg" alt="">
+                        <img class="img-fluid" src="img/logo-hostolink.jpeg" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Hostolink</h4>
                         <p>Hostolink est une application de paiement spécialisée dans le domaine de la santé, permettant
                         aux patients de régler leurs soins et achats pharmaceutiques en toute simplicité.</p>
-                        <a class="fw-medium" href="">Lire la suite<i class="fa fa-arrow-right ms-2"></i></a>
+                        <a class="fw-medium" href="page_detail_service.php">Lire la suite<i class="fa fa-arrow-right ms-2"></i></a>
                     </div>
                 </div>
             </div>
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="https://cdn.pixabay.com/photo/2019/05/27/07/26/mental-health-4232031_640.jpg" alt="">
+                        <img class="img-fluid" src="https://img.freepik.com/photos-gratuite/dirigeant-entreprise-masculin-prononcant-discours_107420-63807.jpg?t=st=1739183258~exp=1739186858~hmac=8be323df47c6c2bf148c7441d7db4cbf9c82f33b9c42009c4f443bc310dbb382&w=1380" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
-                        <h4 class="mb-3">Hostolink</h4>
+                        <h4 class="mb-3">Hosto Awards | Hosto forum</h4>
                         <p>Hostolink est une application de paiement spécialisée dans le domaine de la santé, permettant
                         aux patients de régler leurs soins et achats pharmaceutiques en toute simplicité.</p>
                         <a class="fw-medium" href="">Lire la suite<i class="fa fa-arrow-right ms-2"></i></a>
@@ -33,7 +33,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="https://cdn.pixabay.com/photo/2016/02/29/15/02/doctor-1228629_640.jpg" alt="">
+                        <img class="img-fluid" src="https://img.freepik.com/vecteurs-premium/journee-mondiale-sante-conception-texte-concept-journee-mondiale-sante-stethoscope-medecin_634723-1408.jpg?w=826" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Magasine santé</h4>
@@ -72,7 +72,7 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="https://th.bing.com/th/id/R.8873938b929fd048b1394a944a9e890a?rik=4QEka2b%2bkDdPNw&pid=ImgRaw&r=0" alt="">
+                        <img class="img-fluid" src="https://img.freepik.com/psd-gratuit/banniere-horizontale-pour-activite-sociale-charite_23-2148958504.jpg?t=st=1739186830~exp=1739190430~hmac=b4663d437525b1c5dbba65479a4f722bd224068478a974bf8f20e5a7db0b32ae&w=1380" alt="">
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Fondation</h4>

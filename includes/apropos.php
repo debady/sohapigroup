@@ -37,7 +37,7 @@
                             </div>
                         </div>
                     </div>
-                    <a href="" class="btn btn-primary py-3 px-5">Explorer Plus</a>
+                    <!-- <a href="" class="btn btn-primary py-3 px-5">Explorer Plus</a> -->
                 </div>
             </div>
         </div>

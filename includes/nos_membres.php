@@ -4,12 +4,12 @@
             <h1 class="display-5 mb-5">Membres de l'Équipe</h1>
         </div>
         <div class="row g-4">
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/le-dr.jpg" alt="Alla Aime Martial ">
                         <div class="team-social">
-                            <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-facebook-f"></i></a>
+                            <a class="btn btn-square" href="https://www.facebook.com/share/17nFbccKnn/?mibextid=wwXIfr"><i class="fab fa-facebook-f"></i></a>
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-twitter"></i></a>
                             <a class="btn btn-square" href="reseau_social.php"><i class="fab fa-instagram"></i></a>
                         </div>
@@ -20,7 +20,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.3s">
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.3s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/mr-houle.jpg" alt="Houle Trésor Noël">
@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-6 wow fadeInUp" data-wow-delay="0.5s">
+            <div class="col-lg-3 col-md-4 wow fadeInUp" data-wow-delay="0.5s">
                 <div class="team-item">
                     <div class="overflow-hidden position-relative">
                         <img class="img-fluid" src="img/melisa.png" alt="Zogbe Melissa">
