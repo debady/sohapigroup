@@ -11,19 +11,19 @@
                 <div class="nav-item dropdown">
                     <a href="nos_service.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Service</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="404.php" class="dropdown-item">Notation hopsitalière</a>
-                        <a href="404.php" class="dropdown-item">Evernement</a>
-                        <a href="404.php" class="dropdown-item">Digital</a>
-                        <a href="404.php" class="dropdown-item">Intermediation</a>
-                        <a href="404.php" class="dropdown-item">Edition</a>
-                        <a href="404.php" class="dropdown-item">Audio-Visuel</a>
-                        <a href="404.php" class="dropdown-item">Formation</a>
+                        <a href="page_service.php" class="dropdown-item">Notation hopsitalière</a>
+                        <a href="page_service.php" class="dropdown-item">Evernement</a>
+                        <a href="page_service.php" class="dropdown-item">Digital</a>
+                        <a href="page_service.php" class="dropdown-item">Intermediation</a>
+                        <a href="page_service.php" class="dropdown-item">Edition</a>
+                        <a href="page_service.php" class="dropdown-item">Audio-Visuel</a>
+                        <a href="page_service.php" class="dropdown-item">Formation</a>
                     </div>
                 </div>
                 <div class="nav-item dropdown">
                     <a href="nos_service.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Nos Réalisations</a>
                     <div class="dropdown-menu fade-up m-0">
-                        <a href="404.php" class="dropdown-item">HostoAwards 2024</a>
+                        <a href="gallerie.php" class="dropdown-item">HostoAwards 2024</a>
                         <a href="404.php" class="dropdown-item">HostoAwards 2023</a>
                         <a href="404.php" class="dropdown-item">Africa Hostomag</a>
                         <a href="404.php" class="dropdown-item">HostoAcademia</a>
