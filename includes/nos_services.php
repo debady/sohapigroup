@@ -1,3 +1,4 @@
+
 <div class="container-xxl py-5">
     <div class="container">
         <div class="section-title text-center">
@@ -7,7 +8,8 @@
             <div class="col-md-6 col-lg-4 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="service-item">
                     <div class="overflow-hidden">
-                        <img class="img-fluid" src="img/logo-hostolink.jpeg" alt="">
+                        <img class="img-fluid" src="<?php echo $varlienimagehostolin;?>" alt="">
+                        <!-- <img class="img-fluid" src="img/logo-hostolink.jpeg" alt=""> -->
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Hostolink</h4>
@@ -21,6 +23,7 @@
                 <div class="service-item">
                     <div class="overflow-hidden">
                         <img class="img-fluid" src="https://img.freepik.com/photos-gratuite/dirigeant-entreprise-masculin-prononcant-discours_107420-63807.jpg?t=st=1739183258~exp=1739186858~hmac=8be323df47c6c2bf148c7441d7db4cbf9c82f33b9c42009c4f443bc310dbb382&w=1380" alt="">
+                        <!-- <img class="img-fluid" src="" alt=""> -->
                     </div>
                     <div class="p-4 text-center border border-5 border-light border-top-0">
                         <h4 class="mb-3">Hosto Awards | Hosto forum</h4>
