@@ -8,6 +8,8 @@
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
                 <a href="index.php" class="nav-item nav-link active">Accueil</a>
+                <a href="magasine/hostomags.php" class="nav-item nav-link active">HOSTOMAGS 1</a>
+                <a href="magasine display/hostomag2.php" class="nav-item nav-link active">HOSTOMAGS 2</a>
                 <div class="nav-item dropdown">
                     <a href="nos_service.php" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Service</a>
                     <div class="dropdown-menu fade-up m-0">
