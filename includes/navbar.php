@@ -41,7 +41,7 @@
                 </div>
                 <a href="nos_projets.php" class="nav-item nav-link">Projet</a>
                 <a href="apropos_nous.php" class="nav-item nav-link">À propos</a>
-                <a href="Nous_contacter.php" class="nav-item nav-link">Contact</a>
+                <a href="nous_contacter.php" class="nav-item nav-link">Contact</a>
             </div>
             <a href="404.php" class="btn btn-primary py-4 px-lg-5 d-none d-lg-block">Faire Un Don<i class="fa fa-arrow-right ms-3"></i></a>
         </div>

@@ -25,7 +25,7 @@
 
     <?php 
         include("includes/nos_services.php");
-        include("includes/Nous_contacter.php");
+        include("includes/nous_contacter.php");
         include("includes/temoignage.php");
         include("includes/footer.php");
     ?>
